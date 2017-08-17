@@ -1,1 +1,6 @@
-
+] 
+ { "op" : "add", "path" : "/itemTags/-", "value" : "weapon" },
+{ "op" : "add", "path" : "/itemTags/-", "value" : "ranged" }
+{ "op" : "add", "path" : "/itemTags/-", "value" : "bow" }
+{ "op" : "add", "path" : "/itemTags/-", "value" : "2" }
+]
