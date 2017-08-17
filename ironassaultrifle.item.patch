@@ -2,5 +2,5 @@
  { "op" : "add", "path" : "/itemTags/-", "value" : "weapon" },
 { "op" : "add", "path" : "/itemTags/-", "value" : "ranged" }
 { "op" : "add", "path" : "/itemTags/-", "value" : "assaultrifle" }
-{ "op" : "add", "path" : "/itemTags/-", "value" : "1" }
+{ "op" : "add", "path" : "/itemTags/-", "value" : "tier1" }
 ]
