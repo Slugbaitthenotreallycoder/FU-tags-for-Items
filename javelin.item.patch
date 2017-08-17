@@ -1,0 +1,4 @@
+] 
+ { "op" : "add", "path" : "/itemTags/-", "value" : "throwableitem" },
+{ "op" : "add", "path" : "/itemTags/-", "value" : "4" }
+]
