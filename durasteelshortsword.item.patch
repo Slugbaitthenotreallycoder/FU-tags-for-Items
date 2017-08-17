@@ -2,5 +2,5 @@
  { "op" : "add", "path" : "/itemTags/-", "value" : "weapon" },
 { "op" : "add", "path" : "/itemTags/-", "value" : "melee" }
 { "op" : "add", "path" : "/itemTags/-", "value" : "shortsword" }
-{ "op" : "add", "path" : "/itemTags/-", "value" : "4" }
+{ "op" : "add", "path" : "/itemTags/-", "value" : "tier4" }
 ]
