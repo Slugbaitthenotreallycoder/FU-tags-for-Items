@@ -1,4 +1,4 @@
-] 
+[ 
  { "op" : "add", "path" : "/itemTags/-", "value" : "weapon" },
 { "op" : "add", "path" : "/itemTags/-", "value" : "melee" }
 { "op" : "add", "path" : "/itemTags/-", "value" : "shortsword" }
